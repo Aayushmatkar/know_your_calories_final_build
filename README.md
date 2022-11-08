@@ -1,31 +1,11 @@
 Know You Calories is an Android app developed by group 4 in ELG 5100 ,
 This app provides the functionality to take a photo of any food , send that photo to the AWS cloud service the ML model present in the AWS Sagemaker helps in calculating the calories in the food scanned and direct the results back to the app user 
 
+The.apk file for the application is attatched in the repository by the name of apprelease.apk
 
+Link for the video of app Demonstration - 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://user-images.githubusercontent.com/63353452/200474202-3da09163-6e31-4a79-b02e-35a0e56541d5.mp4
 
 # flutter_camera_practice
 
