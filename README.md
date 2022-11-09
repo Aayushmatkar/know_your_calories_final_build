@@ -8,7 +8,7 @@ Link for the video of app Demonstration -
 
 https://user-images.githubusercontent.com/63353452/200474202-3da09163-6e31-4a79-b02e-35a0e56541d5.mp4
 
-# KYS_trial
+# Know_Your_Calories git repo
 
 A new Flutter project.
 
